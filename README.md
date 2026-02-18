@@ -32,6 +32,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 
 - [PWA serial terminal](https://github.com/GoogleChromeLabs/serial-terminal) - Offline-capable serial terminal by Google Chrome Labs to demonstrate Web Serial API.
 - [dead link] ~~[Windows XP -inspired web serial controller](https://webserial.app/) - Fun demonstration of a serial communication tool that resembles the UI of the Windows XP desktop.~~
+- [pineTERM](https://wespeakenglish.github.io/pineTERM/) - Modern web-based UART/serial terminal with hex/ASCII views, JSON command macros, and packet grouping, capable to handle huge overnight logs.
 
 ## Applications
 
@@ -43,7 +44,8 @@ Awesome resources for serial communication using the browser. Includes these ver
 - [PN532.js](https://github.com/taichunmin/pn532.js) - A JavaScript library for PN532 base on Web Bluetooth and Web Serial.
 - [Wavecake](https://app.getwavecake.com/webdevice) - An IDE for sandboxing Web Serial, Web Bluetooth and other scripts. Examples scripts are included. Also supports UI elements and charts.
 - [Phomemo-M02-Web](https://github.com/K0IN/Phomemo-M02-Web) - A offline capable Progessive web app to print images using a Phomemo M02 printer.
-- [modbus-webui](https://anttikotajarvi.github.io/modbus-webui/) - Single file Modbus master web app for interfacing with modbus devices with advanced UX features. 
+- [modbus-webui](https://anttikotajarvi.github.io/modbus-webui/) - Single file Modbus master web app for interfacing with modbus devices with advanced UX features.
+- [polluSensWeb](https://github.com/WeSpeakEnglish/polluSensWeb) - Lightweight web-based serial interface and charting tool for visualizing and logging data from UART sensors (PM2.5, VOC, etc). JSON configurable, many sensors already in default JSON. 
 
 ## Compatible Devices
 
